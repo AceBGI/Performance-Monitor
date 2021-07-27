@@ -1,0 +1,22 @@
+{
+  "name": "com.embrace.CodingAssignment",
+  "version": "1.0.0",
+  "displayName": "Coding Assignment",
+  "description": " Monitors the performance of your scene by gathring FPS data on specified samnple rate.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {},
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Alex",
+    "email": "aceakle@hotmail.com",
+    "url": "https://www.acebgi.com"
+  }
+}
