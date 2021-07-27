@@ -1,5 +1,5 @@
 # Performance-Monitor
-Coding Assignment that generates a performance report which shows you a list of timestamps and what the given FPS and frame count are for that given time. 
+Coding Assignment: Example SDK that monitors the performance of your scene by gathring FPS data on specified samnple rate.
 
 # Quick Start
 
