@@ -1,5 +1,5 @@
 {
-  "name": "com.embrace.CodingAssignment",
+  "name": "com.embrace.codingassignment",
   "version": "1.0.0",
   "displayName": "Coding Assignment",
   "description": " Monitors the performance of your scene by gathring FPS data on specified samnple rate.",
